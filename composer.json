@@ -1,0 +1,12 @@
+{
+    "name": "myf/myf",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "myf\\": "vendor\\myf"
+        }
+    },
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
